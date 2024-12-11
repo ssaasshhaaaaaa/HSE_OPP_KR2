@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "title": "Аудиокарта BEHRINGER U-PHORIA",
+        "vendor_code": "BEHRINGER-U-PHORIA",
+        "description": "формат звуковой карты 2.0, USB Type-A, 16 бит/48 кГц, ASIO",
+        "price": 7199,
+        "img": "BEHRINGER-U-PHORIA.png"
+    },
+    {
+        "id": "2",
+        "title": "Аудиокарта BEHRINGER UMC22",
+        "vendor_code": "BEHRINGER-UMC22",
+        "description": "формат звуковой карты 2.0, USB Type-A, 16 бит/48 кГц",
+        "price": 7199,
+        "img": "BEHRINGER-UMC22.png"
+    },
+    {
+        "id": "3",
+        "title": "Аудиокарта Wrugste GV-AR001B",
+        "vendor_code": "Wrugste-GV-AR001B",
+        "description": "USB Type-C, 24 бит/192 кГц, ASIO",
+        "price": 7499,
+        "img": "Wrugste-GV-AR001B.png"
+    },
+    {
+        "id": "4",
+        "title": "Микрофон Октава МК-207",
+        "vendor_code": "Октава-МК-207",
+        "description": "проводной, ручной, от 20 Гц до 20000 Гц, XLR",
+        "price": 41999,
+        "img": "MK-207.png"
+    },
+    {
+        "id": "5",
+        "title": "Микрофон Audio-technica AT2050",
+        "vendor_code": "Audio-technica-AT2050",
+        "description": "проводной, подвесной, -42 дБ, от 20 Гц до 20000 Гц, XLR",
+        "price": 38799,
+        "img": "Audio-technica-AT2050.png"
+    },
+    {
+        "id": "6",
+        "title": "Микрофон Октава МК-119",
+        "vendor_code": "Октава-МК-119",
+        "description": "проводной, подвесной, от 20 Гц до 20000 Гц, XLR",
+        "price": 34799,
+        "img": "Октава-МК-119.png"
+    },
+    {
+        "id": "7",
+        "title": "Клавиатура MIDI Arturia KeyLab Essential 49 mk3",
+        "vendor_code": "MIDI-Arturia-MiniLab-3",
+        "description": "клавиш - 49, октав - 4, синтезаторная, ЖК-дисплей, подключение педалей, MIDI выход, USB Type-С, 2.78 кг",
+        "price": 23799,
+        "img": "MIDI-Arturia-MiniLab-3.png"
+    },
+    {
+        "id": "8",
+        "title": "Клавиатура MIDI Arturia KeyLab Essential 49 mk3",
+        "vendor_code": "MIDI-Arturia-KeyLab-Essential-49-mk3",
+        "description": "клавиш - 49, октав - 4, синтезаторная, ЖК-дисплей, подключение педалей, MIDI выход, USB Type-С, 2.78 кг",
+        "price": 23799,
+        "img": "MIDI-Arturia-KeyLab-Essential-49-mk3.png"
+    },
+    {
+        "id": "9",
+        "title": "Клавиатура MIDI AKAI PRO MPK MINI PLAY MK3",
+        "vendor_code": "MIDI-AKAI-PRO-MPK-MINI-PLAY-MK3",
+        "description": "клавиш - 25, октав - 2, синтезаторная, полувзвешенная, ЖК-дисплей, подключение педалей, USB Type-B, 0.86 кг",
+        "price": 15999,
+        "img": "MIDI-AKAI-PRO-MPK-MINI-PLAY-MK3.png"
+    },
+    {
+        "id": "10",
+        "title": "Проводные наушники Beyerdynamic DT 990 PRO 250 Ohm",
+        "vendor_code": "Beyerdynamic-DT-990-PRO-250-Ohm",
+        "description": "2015, 2.0, охватывающие, 5 Гц - 35000 Гц, 250Ω, проводной, кабель - 3 м ",
+        "price": 23599,
+        "img": "Beyerdynamic-DT-990-PRO-250-Ohm.png"
+    },
+    {
+        "id": "11",
+        "title": "Проводные наушники Beyerdynamic DT 700 PRO X",
+        "vendor_code": "Beyerdynamic-DT-700-PRO-X",
+        "description": "2.0, охватывающие, 5 Гц - 40000 Гц, 48Ω, проводной, кабель - 1.8 м, 3 м",
+        "price": 34799,
+        "img": "Beyerdynamic-DT-700-PRO-X.png"
+    },
+    {
+        "id": "12",
+        "title": "Беспроводные/проводные наушники Beyerdynamic Amiron",
+        "vendor_code": "Beyerdynamic-Amiron",
+        "description": "2019, 2.0, охватывающие, 5 Гц - 40000 Гц, 32Ω, Bluetooth, проводной, 4.2, кабель - 1.2 м",
+        "price": 77799,
+        "img": "Beyerdynamic-Amiron.png"
+    }
+]
